@@ -9,7 +9,8 @@ Designed with a futuristic **Tactical HUD (Head-Up Display)**, NETRA provides op
 ---
 
 ## 📸 Interface Preview
-*(Place a screenshot of your running application here)*
+<img width="1718" height="898" alt="Screenshot 2025-12-20 000645" src="https://github.com/user-attachments/assets/4977b803-7df1-4e10-86f6-c848035b88f1" />
+
 
 ---
 
