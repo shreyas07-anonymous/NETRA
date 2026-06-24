@@ -5,7 +5,7 @@
 **NETRA (Network for Electronic Tracking and Reconnaissance Assessment)** is a prototype military-grade situational awareness system. It leverages **Multi-Modal Sensor Fusion** by combining real-time Object Detection (Computer Vision) with Audio Forensics (Spectral Analysis) to detect threats that a single sensor might miss.
 
 Designed with a futuristic **Tactical HUD (Head-Up Display)**, NETRA provides operators with real-time intelligence on ground intruders, aerial threats (drones), and acoustic anomalies like gunshots or explosions.
-
+demo video:click here(https://youtu.be/VJa96yDGETo)
 ---
 
 ## 📸 Interface Preview
